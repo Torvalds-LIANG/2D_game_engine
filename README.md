@@ -1,6 +1,6 @@
 ## Torvalds LIANG的2D游戏引擎 ##
-一个简单的2D游戏引擎，没有很优雅地设计架构，以此换取简单性，所以尤其适合零基础人群。
-A beginner-friendly 2D game engine, deliberately trading architectural purity for simplicity.
+一个简单的2D游戏引擎，没有很优雅地设计架构，以此换取简单性，所以尤其适合零基础人群。引擎尤其擅长带有叙事和场景交互的游戏  
+A beginner-friendly 2D game engine, deliberately trading architectural purity for simplicity.The engine particularly shines in games featuring narrative storytelling and scene-based interaction.  
 
 FAQ  
 **Q: 作者是Torvalds吗**  
