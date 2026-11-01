@@ -2,7 +2,7 @@
 一个简单的2D游戏引擎，没有很优雅地设计架构，以此换取简单性，所以尤其适合零基础人群。
 A beginner-friendly 2D game engine, deliberately trading architectural purity for simplicity.
 
-FAQ
+FAQ  
 **Q: 作者是Torvalds吗**  
 不是，作者是Torvalds的铁粉，所以他的英文名叫Torvalds，并且他会开源自己的所有项目。  
 **Q: 为什么全是屎山代码**  
